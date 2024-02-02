@@ -5,13 +5,19 @@ const app = express();
 const academicProvider = require('./scripts/academic-provider.js');
 const academicHandler = require('./scripts/academic-router.js');
 
-app.use((req, res, next) => {
-    res.append('Access-Control-Allow-Origin', ['*']);
-    res.append('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE');
-    res.append('Access-Control-Allow-Headers', 'Content-Type','Authorization');
-    res.sendStatus(200);
-    next();
-});
+const corsMiddleware = (req, res, next) => {
+    res.header('Access-Control-Allow-Origin', '*')
+        .header('Access-Control-Allow-Headers', 'Authorization,Accept,Origin,DNT,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range')
+        .header('Access-Control-Allow-Methods', 'GET,POST,OPTIONS,PUT,DELETE,PATCH');
+
+    if (req.method === 'OPTIONS') {
+        res.sendStatus(200);
+    } else {
+        next();
+    }
+}
+
+app.use(corsMiddleware);
 
 // handle requests for static resources
 //app.use('/static', express.static(path.join(__dirname, 'public')));
@@ -23,6 +29,7 @@ academicHandler.handleNameSearch(academicProvider, app);
 app.use( (req,resp) => {
     resp.status(404).send('Unable to find the requested resource!');
 });
+
 // use port in .env file or 8080
 const port = process.env.PORT || 8080;
 app.listen(port, () => {
