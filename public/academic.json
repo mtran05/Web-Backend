@@ -1,0 +1,87 @@
+[
+    {
+        "term": "Fall 2023",
+        "term_credits": "14",
+        "term_gpa": "4.0",
+        "info": [
+            {
+                "course_id": "MATH 120",
+                "course_description": "Calculus 1",
+                "credit_hours": "4",
+                "grade": "A"
+            },
+            {
+                "course_id": "COSC 111",
+                "course_description": "Intro to Programming",
+                "credit_hours": "3",
+                "grade": "A"
+            },
+            {
+                "course_id": "COSC 112",
+                "course_description": "Intro to Programming lab",
+                "credit_hours": "1",
+                "grade": "A"
+            },
+            {
+                "course_id": "AFC 101",
+                "course_description": "Intro to Africology",
+                "credit_hours": "3",
+                "grade": "A"
+            },
+            {
+                "course_id": "PHIL 100",
+                "course_description": "Intro to Philosophy",
+                "credit_hours": "3",
+                "grade": "A"
+            }
+        ]
+    },
+    {
+        "term": "Winter 2024",
+        "term_credits": "16",
+        "term_gpa": "N/A",
+        "info": [
+            {
+                "course_id": "MATH 121",
+                "course_description": "Calculus 2",
+                "credit_hours": "4",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "MATH 122",
+                "course_description": "Elementary Linear Algebra",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "COSC 211",
+                "course_description": "Programming Data Structures",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "COSC 212",
+                "course_description": "Programming Data Structures lab",
+                "credit_hours": "1",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "SAG 175",
+                "course_description": "Graphics for Simulation 1",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "PEGN 180L1",
+                "course_description": "Yoga",
+                "credit_hours": "1",
+                "grade": "N/A"
+            },{
+                "course_id": "PEGN 124L1",
+                "course_description": "Fitness Walking",
+                "credit_hours": "1",
+                "grade": "N/A"
+            }
+        ]
+    }
+]
