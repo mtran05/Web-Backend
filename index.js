@@ -5,6 +5,7 @@ const app = express();
 const academicProvider = require('./scripts/academic-provider.js');
 const academicHandler = require('./scripts/academic-router.js');
 
+//handle the CORS shits
 const corsMiddleware = (req, res, next) => {
     res.header('Access-Control-Allow-Origin', '*')
         .header('Access-Control-Allow-Headers', 'Authorization,Accept,Origin,DNT,Keep-Alive,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Content-Range,Range')

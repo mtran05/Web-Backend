@@ -6,7 +6,7 @@
         "info": [
             {
                 "course_id": "MATH 120",
-                "course_description": "Calculus 1",
+                "course_description": "Calculus I",
                 "credit_hours": "4",
                 "grade": "A"
             },
@@ -43,7 +43,7 @@
         "info": [
             {
                 "course_id": "MATH 121",
-                "course_description": "Calculus 2",
+                "course_description": "Calculus II",
                 "credit_hours": "4",
                 "grade": "N/A"
             },
@@ -67,7 +67,7 @@
             },
             {
                 "course_id": "SAG 175",
-                "course_description": "Graphics for Simulation 1",
+                "course_description": "Graphics for Simulation I",
                 "credit_hours": "3",
                 "grade": "N/A"
             },
@@ -80,6 +80,249 @@
                 "course_id": "PEGN 124L1",
                 "course_description": "Fitness Walking",
                 "credit_hours": "1",
+                "grade": "N/A"
+            }
+        ]
+    },
+    {
+        "term": "Summer 2024",
+        "term_credits": "3",
+        "term_gpa": "N/A",
+        "info": [
+            {
+                "course_id": "STAT 360",
+                "course_description": "Statistical Methods",
+                "credit_hours": "3",
+                "grade": "N/A"
+            }
+        ]
+    },
+    {
+        "term": "Fall 2024",
+        "term_credits": "16",
+        "term_gpa": "N/A",
+        "info": [
+            {
+                "course_id": "MATH 223",
+                "course_description": "Multivariable Calculus",
+                "credit_hours": "4",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "COSC 231",
+                "course_description": "Internet-based Computing",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "COSC 311",
+                "course_description": "Data Structures and Algorithms",
+                "credit_hours": "4",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "PHY 223",
+                "course_description": "Mechanics and Sound",
+                "credit_hours": "5",
+                "grade": "N/A"
+            }
+        ]
+    },
+    {
+        "term": "Winter 2025",
+        "term_credits": "16",
+        "term_gpa": "N/A",
+        "info": [
+            {
+                "course_id": "STAT 271",
+                "course_description": "Intro to Computations in Statistics",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "COSC 314",
+                "course_description": "Computational Discrete Structures",
+                "credit_hours": "4",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "COSC 471",
+                "course_description": "Database Principles",
+                "credit_hours": "4",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "PHY 224",
+                "course_description": "Electricity and Light",
+                "credit_hours": "5",
+                "grade": "N/A"
+            }
+        ]
+    },
+    {
+        "term": "Summer 2025",
+        "term_credits": "3",
+        "term_gpa": "N/A",
+        "info": [
+            {
+                "course_id": "COMM 124",
+                "course_description": "Foundations of Speech Communication",
+                "credit_hours": "3",
+                "grade": "N/A"
+            }
+        ]
+    },
+    {
+        "term": "Fall 2025",
+        "term_credits": "16",
+        "term_gpa": "N/A",
+        "info": [
+            {
+                "course_id": "STAT 463",
+                "course_description": "Statistical Data Analysis",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "COSC 221",
+                "course_description": "Computer Organization I",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "COSC 436",
+                "course_description": "Web Programming",
+                "credit_hours": "4",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "ESLN 412",
+                "course_description": "Academic ESL Writing",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "PSCI 110",
+                "course_description": "The Science of Everyday Life",
+                "credit_hours": "3",
+                "grade": "N/A"
+            }
+        ]
+    },
+    {
+        "term": "Winter 2026",
+        "term_credits": "15",
+        "term_gpa": "N/A",
+        "info": [
+            {
+                "course_id": "COSC 105",
+                "course_description": "Everyday Computing and Social Responsibility",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "COSC 321",
+                "course_description": "Computer Organization II",
+                "credit_hours": "4",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "COSC 341",
+                "course_description": "Programming Languages",
+                "credit_hours": "4",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "PHY 472",
+                "course_description": "Big Data I",
+                "credit_hours": "4",
+                "grade": "N/A"
+            }
+        ]
+    },
+    {
+        "term": "Summer 2026",
+        "term_credits": "3",
+        "term_gpa": "N/A",
+        "info": [
+            {
+                "course_id": "ARTH 100",
+                "course_description": "Art Appreciation",
+                "credit_hours": "3",
+                "grade": "N/A"
+            }
+        ]
+    },
+    {
+        "term": "Fall 2026",
+        "term_credits": "15",
+        "term_gpa": "N/A",
+        "info": [
+            {
+                "course_id": "STAT 370",
+                "course_description": "Probability and Statistics I",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "COSC 381",
+                "course_description": "Software Engineering Solutions",
+                "credit_hours": "4",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "COSC 473",
+                "course_description": "Big Data II",
+                "credit_hours": "4",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "ECON 100",
+                "course_description": "Intro to Economic Problems and Policies",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "PEGN 180L1",
+                "course_description": "Yoga",
+                "credit_hours": "1",
+                "grade": "N/A"
+            }
+        ]
+    },
+    {
+        "term": "Winter 2027",
+        "term_credits": "16",
+        "term_gpa": "N/A",
+        "info": [
+            {
+                "course_id": "STAT 464",
+                "course_description": "Probability and Statistics II",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "COSC 481W",
+                "course_description": "Software Engineering and Senior Project",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "COSC 461",
+                "course_description": "Intro to Artificial Intelligence",
+                "credit_hours": "4",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "SOCL 105",
+                "course_description": "Introductory Sociology",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "LITR 101",
+                "course_description": "Intro to Fiction",
+                "credit_hours": "3",
                 "grade": "N/A"
             }
         ]
