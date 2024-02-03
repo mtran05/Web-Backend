@@ -24,7 +24,7 @@
             },
             {
                 "course_id": "AFC 101",
-                "course_description": "Intro to Africology",
+                "course_description": "Intro to Africology & African American Studies",
                 "credit_hours": "3",
                 "grade": "A"
             },
@@ -216,7 +216,7 @@
         "info": [
             {
                 "course_id": "COSC 105",
-                "course_description": "Everyday Computing and Social Responsibility",
+                "course_description": "Everyday Computing & Social Responsibility",
                 "credit_hours": "3",
                 "grade": "N/A"
             },
