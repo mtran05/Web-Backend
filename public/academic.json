@@ -277,15 +277,15 @@
                 "grade": "N/A"
             },
             {
-                "course_id": "ECON 100",
-                "course_description": "Intro to Economic Problems and Policies",
-                "credit_hours": "3",
+                "course_id": "PHY 280",
+                "course_description": "Foundations of Scientific Computing",
+                "credit_hours": "1",
                 "grade": "N/A"
             },
             {
-                "course_id": "PEGN 180L1",
-                "course_description": "Yoga",
-                "credit_hours": "1",
+                "course_id": "ECON 100",
+                "course_description": "Intro to Economic Problems and Policies",
+                "credit_hours": "3",
                 "grade": "N/A"
             }
         ]
