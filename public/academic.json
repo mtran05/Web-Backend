@@ -211,7 +211,7 @@
     },
     {
         "term": "Winter 2026",
-        "term_credits": "15",
+        "term_credits": "16",
         "term_gpa": "N/A",
         "info": [
             {
@@ -237,6 +237,12 @@
                 "course_description": "Big Data I",
                 "credit_hours": "4",
                 "grade": "N/A"
+            },
+            {
+                "course_id": "PHY 280",
+                "course_description": "Foundations of Scientific Computing",
+                "credit_hours": "1",
+                "grade": "N/A"
             }
         ]
     },
@@ -255,9 +261,15 @@
     },
     {
         "term": "Fall 2026",
-        "term_credits": "15",
+        "term_credits": "17",
         "term_gpa": "N/A",
         "info": [
+            {
+                "course_id": "STAT 170",
+                "course_description": "Elementary Statistics",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
             {
                 "course_id": "STAT 370",
                 "course_description": "Probability and Statistics I",
@@ -274,12 +286,6 @@
                 "course_id": "COSC 473",
                 "course_description": "Big Data II",
                 "credit_hours": "4",
-                "grade": "N/A"
-            },
-            {
-                "course_id": "PHY 280",
-                "course_description": "Foundations of Scientific Computing",
-                "credit_hours": "1",
                 "grade": "N/A"
             },
             {
