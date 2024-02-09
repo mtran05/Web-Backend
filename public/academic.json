@@ -248,12 +248,24 @@
     },
     {
         "term": "Summer 2026",
-        "term_credits": "3",
+        "term_credits": "9",
         "term_gpa": "N/A",
         "info": [
             {
+                "course_id": "STAT 170",
+                "course_description": "Elementary Statistics",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
+            {
                 "course_id": "ARTH 100",
                 "course_description": "Art Appreciation",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "LITR 101",
+                "course_description": "Intro to Fiction",
                 "credit_hours": "3",
                 "grade": "N/A"
             }
@@ -265,8 +277,8 @@
         "term_gpa": "N/A",
         "info": [
             {
-                "course_id": "STAT 170",
-                "course_description": "Elementary Statistics",
+                "course_id": "MATH 325",
+                "course_description": "Differential Equations",
                 "credit_hours": "3",
                 "grade": "N/A"
             },
@@ -302,6 +314,12 @@
         "term_gpa": "N/A",
         "info": [
             {
+                "course_id": "EECE 411",
+                "course_description": "Machine Learning",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
+            {
                 "course_id": "STAT 464",
                 "course_description": "Probability and Statistics II",
                 "credit_hours": "3",
@@ -322,12 +340,6 @@
             {
                 "course_id": "SOCL 105",
                 "course_description": "Introductory Sociology",
-                "credit_hours": "3",
-                "grade": "N/A"
-            },
-            {
-                "course_id": "LITR 101",
-                "course_description": "Intro to Fiction",
                 "credit_hours": "3",
                 "grade": "N/A"
             }
