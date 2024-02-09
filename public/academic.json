@@ -76,7 +76,8 @@
                 "course_description": "Yoga",
                 "credit_hours": "1",
                 "grade": "N/A"
-            },{
+            },
+            {
                 "course_id": "PEGN 124L1",
                 "course_description": "Fitness Walking",
                 "credit_hours": "1",
@@ -134,6 +135,12 @@
         "term_gpa": "N/A",
         "info": [
             {
+                "course_id": "MATH 325",
+                "course_description": "Differential Equations",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
+            {
                 "course_id": "STAT 271",
                 "course_description": "Intro to Computations in Statistics",
                 "credit_hours": "3",
@@ -146,15 +153,15 @@
                 "grade": "N/A"
             },
             {
-                "course_id": "COSC 471",
-                "course_description": "Database Principles",
-                "credit_hours": "4",
-                "grade": "N/A"
-            },
-            {
                 "course_id": "PHY 224",
                 "course_description": "Electricity and Light",
                 "credit_hours": "5",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "PHY 280",
+                "course_description": "Foundations of Scientific Computing",
+                "credit_hours": "1",
                 "grade": "N/A"
             }
         ]
@@ -174,7 +181,7 @@
     },
     {
         "term": "Fall 2025",
-        "term_credits": "16",
+        "term_credits": "17",
         "term_gpa": "N/A",
         "info": [
             {
@@ -196,9 +203,9 @@
                 "grade": "N/A"
             },
             {
-                "course_id": "ESLN 412",
-                "course_description": "Academic ESL Writing",
-                "credit_hours": "3",
+                "course_id": "COSC 471",
+                "course_description": "Database Principles",
+                "credit_hours": "4",
                 "grade": "N/A"
             },
             {
@@ -211,7 +218,7 @@
     },
     {
         "term": "Winter 2026",
-        "term_credits": "16",
+        "term_credits": "18",
         "term_gpa": "N/A",
         "info": [
             {
@@ -239,16 +246,16 @@
                 "grade": "N/A"
             },
             {
-                "course_id": "PHY 280",
-                "course_description": "Foundations of Scientific Computing",
-                "credit_hours": "1",
+                "course_id": "ESLN 412",
+                "course_description": "Academic ESL Writing",
+                "credit_hours": "3",
                 "grade": "N/A"
             }
         ]
     },
     {
         "term": "Summer 2026",
-        "term_credits": "9",
+        "term_credits": "6",
         "term_gpa": "N/A",
         "info": [
             {
@@ -262,12 +269,6 @@
                 "course_description": "Art Appreciation",
                 "credit_hours": "3",
                 "grade": "N/A"
-            },
-            {
-                "course_id": "LITR 101",
-                "course_description": "Intro to Fiction",
-                "credit_hours": "3",
-                "grade": "N/A"
             }
         ]
     },
@@ -276,12 +277,6 @@
         "term_credits": "17",
         "term_gpa": "N/A",
         "info": [
-            {
-                "course_id": "MATH 325",
-                "course_description": "Differential Equations",
-                "credit_hours": "3",
-                "grade": "N/A"
-            },
             {
                 "course_id": "STAT 370",
                 "course_description": "Probability and Statistics I",
@@ -303,6 +298,12 @@
             {
                 "course_id": "ECON 100",
                 "course_description": "Intro to Economic Problems and Policies",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "LITR 101",
+                "course_description": "Intro to Fiction",
                 "credit_hours": "3",
                 "grade": "N/A"
             }
