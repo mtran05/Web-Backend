@@ -87,12 +87,18 @@
     },
     {
         "term": "Summer 2024",
-        "term_credits": "3",
+        "term_credits": "6",
         "term_gpa": "N/A",
         "info": [
             {
                 "course_id": "STAT 360",
                 "course_description": "Statistical Methods",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "PSCI 110",
+                "course_description": "The Science of Everyday Life",
                 "credit_hours": "3",
                 "grade": "N/A"
             }
@@ -135,8 +141,8 @@
         "term_gpa": "N/A",
         "info": [
             {
-                "course_id": "MATH 325",
-                "course_description": "Differential Equations",
+                "course_id": "MATH 211",
+                "course_description": "Intro to Mathematical Proof",
                 "credit_hours": "3",
                 "grade": "N/A"
             },
@@ -168,9 +174,15 @@
     },
     {
         "term": "Summer 2025",
-        "term_credits": "3",
+        "term_credits": "6",
         "term_gpa": "N/A",
         "info": [
+            {
+                "course_id": "LITR 101",
+                "course_description": "Intro to Fiction",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
             {
                 "course_id": "COMM 124",
                 "course_description": "Foundations of Speech Communication",
@@ -184,6 +196,12 @@
         "term_credits": "17",
         "term_gpa": "N/A",
         "info": [
+            {
+                "course_id": "MATH 311W",
+                "course_description": "Mathematical Problem Solving",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
             {
                 "course_id": "STAT 463",
                 "course_description": "Statistical Data Analysis",
@@ -207,12 +225,6 @@
                 "course_description": "Database Principles",
                 "credit_hours": "4",
                 "grade": "N/A"
-            },
-            {
-                "course_id": "PSCI 110",
-                "course_description": "The Science of Everyday Life",
-                "credit_hours": "3",
-                "grade": "N/A"
             }
         ]
     },
@@ -221,6 +233,12 @@
         "term_credits": "18",
         "term_gpa": "N/A",
         "info": [
+            {
+                "course_id": "MATH 416",
+                "course_description": "Linear Algebra",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
             {
                 "course_id": "COSC 105",
                 "course_description": "Everyday Computing & Social Responsibility",
@@ -244,12 +262,6 @@
                 "course_description": "Big Data I",
                 "credit_hours": "4",
                 "grade": "N/A"
-            },
-            {
-                "course_id": "ESLN 412",
-                "course_description": "Academic ESL Writing",
-                "credit_hours": "3",
-                "grade": "N/A"
             }
         ]
     },
@@ -259,14 +271,14 @@
         "term_gpa": "N/A",
         "info": [
             {
-                "course_id": "STAT 170",
-                "course_description": "Elementary Statistics",
+                "course_id": "ARTH 100",
+                "course_description": "Art Appreciation",
                 "credit_hours": "3",
                 "grade": "N/A"
             },
             {
-                "course_id": "ARTH 100",
-                "course_description": "Art Appreciation",
+                "course_id": "ECON 100",
+                "course_description": "Intro to Economic Problems and Policies",
                 "credit_hours": "3",
                 "grade": "N/A"
             }
@@ -277,6 +289,12 @@
         "term_credits": "17",
         "term_gpa": "N/A",
         "info": [
+            {
+                "course_id": "MATH 325",
+                "course_description": "Differential Equations",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
             {
                 "course_id": "STAT 370",
                 "course_description": "Probability and Statistics I",
@@ -296,14 +314,8 @@
                 "grade": "N/A"
             },
             {
-                "course_id": "ECON 100",
-                "course_description": "Intro to Economic Problems and Policies",
-                "credit_hours": "3",
-                "grade": "N/A"
-            },
-            {
-                "course_id": "LITR 101",
-                "course_description": "Intro to Fiction",
+                "course_id": "ESLN 412",
+                "course_description": "Academic ESL Writing",
                 "credit_hours": "3",
                 "grade": "N/A"
             }
