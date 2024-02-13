@@ -87,7 +87,7 @@
     },
     {
         "term": "Summer 2024",
-        "term_credits": "6",
+        "term_credits": "7",
         "term_gpa": "N/A",
         "info": [
             {
@@ -97,9 +97,9 @@
                 "grade": "N/A"
             },
             {
-                "course_id": "PSCI 110",
-                "course_description": "The Science of Everyday Life",
-                "credit_hours": "3",
+                "course_id": "COSC 314",
+                "course_description": "Computational Discrete Structures",
+                "credit_hours": "4",
                 "grade": "N/A"
             }
         ]
@@ -153,8 +153,8 @@
                 "grade": "N/A"
             },
             {
-                "course_id": "COSC 314",
-                "course_description": "Computational Discrete Structures",
+                "course_id": "COSC 471",
+                "course_description": "Database Principles",
                 "credit_hours": "4",
                 "grade": "N/A"
             },
@@ -174,12 +174,30 @@
     },
     {
         "term": "Summer 2025",
-        "term_credits": "6",
+        "term_credits": "15",
         "term_gpa": "N/A",
         "info": [
             {
+                "course_id": "ARTH 100",
+                "course_description": "Art Appreciation",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "ECON 100",
+                "course_description": "Intro to Economic Problems and Policies",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
+            {
                 "course_id": "LITR 101",
                 "course_description": "Intro to Fiction",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "PSCI 110",
+                "course_description": "The Science of Everyday Life",
                 "credit_hours": "3",
                 "grade": "N/A"
             },
@@ -193,9 +211,15 @@
     },
     {
         "term": "Fall 2025",
-        "term_credits": "17",
+        "term_credits": "16",
         "term_gpa": "N/A",
         "info": [
+            {
+                "course_id": "MATH 215",
+                "course_description": "Intro to Discrete Mathematics",
+                "credit_hours": "3",
+                "grade": "N/A"
+            },
             {
                 "course_id": "MATH 311W",
                 "course_description": "Mathematical Problem Solving",
@@ -217,12 +241,6 @@
             {
                 "course_id": "COSC 436",
                 "course_description": "Web Programming",
-                "credit_hours": "4",
-                "grade": "N/A"
-            },
-            {
-                "course_id": "COSC 471",
-                "course_description": "Database Principles",
                 "credit_hours": "4",
                 "grade": "N/A"
             }
@@ -267,21 +285,10 @@
     },
     {
         "term": "Summer 2026",
-        "term_credits": "6",
+        "term_credits": "0",
         "term_gpa": "N/A",
         "info": [
-            {
-                "course_id": "ARTH 100",
-                "course_description": "Art Appreciation",
-                "credit_hours": "3",
-                "grade": "N/A"
-            },
-            {
-                "course_id": "ECON 100",
-                "course_description": "Intro to Economic Problems and Policies",
-                "credit_hours": "3",
-                "grade": "N/A"
-            }
+            
         ]
     },
     {
