@@ -285,10 +285,15 @@
     },
     {
         "term": "Summer 2026",
-        "term_credits": "0",
+        "term_credits": "4",
         "term_gpa": "N/A",
         "info": [
-            
+            {
+                "course_id": "COSC 423",
+                "course_description": "Computer Operating Systems",
+                "credit_hours": "4",
+                "grade": "N/A"
+            }
         ]
     },
     {
