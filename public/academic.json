@@ -87,20 +87,15 @@
     },
     {
         "term": "Summer 2024",
-        "term_credits": "4",
+        "term_credits": "0",
         "term_gpa": "N/A",
         "info": [
-            {
-                "course_id": "COSC 314",
-                "course_description": "Computational Discrete Structures",
-                "credit_hours": "4",
-                "grade": "N/A"
-            }
+            
         ]
     },
     {
         "term": "Fall 2024",
-        "term_credits": "16",
+        "term_credits": "17",
         "term_gpa": "N/A",
         "info": [
             {
@@ -110,14 +105,14 @@
                 "grade": "N/A"
             },
             {
-                "course_id": "STAT 360",
-                "course_description": "Statistical Methods",
-                "credit_hours": "3",
+                "course_id": "COSC 311",
+                "course_description": "Data Structures and Algorithms",
+                "credit_hours": "4",
                 "grade": "N/A"
             },
             {
-                "course_id": "COSC 311",
-                "course_description": "Data Structures and Algorithms",
+                "course_id": "COSC 314",
+                "course_description": "Computational Discrete Structures",
                 "credit_hours": "4",
                 "grade": "N/A"
             },
@@ -135,14 +130,14 @@
         "term_gpa": "N/A",
         "info": [
             {
-                "course_id": "MATH 211",
-                "course_description": "Intro to Mathematical Proof",
+                "course_id": "MATH 215",
+                "course_description": "Intro to Discrete Mathematics",
                 "credit_hours": "3",
                 "grade": "N/A"
             },
             {
-                "course_id": "COSC 231",
-                "course_description": "Internet-based Computing",
+                "course_id": "STAT 360",
+                "course_description": "Statistical Methods",
                 "credit_hours": "3",
                 "grade": "N/A"
             },
@@ -180,8 +175,8 @@
         "term_gpa": "N/A",
         "info": [
             {
-                "course_id": "MATH 325",
-                "course_description": "Differential Equations",
+                "course_id": "MATH 311W",
+                "course_description": "Mathematical Problem Solving",
                 "credit_hours": "3",
                 "grade": "N/A"
             },
@@ -198,15 +193,15 @@
                 "grade": "N/A"
             },
             {
-                "course_id": "COSC 436",
-                "course_description": "Web Programming",
-                "credit_hours": "4",
+                "course_id": "COSC 231",
+                "course_description": "Internet-based Computing",
+                "credit_hours": "3",
                 "grade": "N/A"
             },
             {
-                "course_id": "ESLN 412",
-                "course_description": "Academic ESL Writing",
-                "credit_hours": "3",
+                "course_id": "COSC 473",
+                "course_description": "Big Data Analytics",
+                "credit_hours": "4",
                 "grade": "N/A"
             }
         ]
@@ -217,14 +212,14 @@
         "term_gpa": "N/A",
         "info": [
             {
-                "course_id": "MATH 215",
-                "course_description": "Intro to Discrete Mathematics",
+                "course_id": "MATH 325",
+                "course_description": "Differential Equations",
                 "credit_hours": "3",
                 "grade": "N/A"
             },
             {
-                "course_id": "MATH 416",
-                "course_description": "Linear Algebra",
+                "course_id": "COSC 105",
+                "course_description": "Everyday Computing & Social Responsibility",
                 "credit_hours": "3",
                 "grade": "N/A"
             },
@@ -242,7 +237,7 @@
             },
             {
                 "course_id": "COSC 472",
-                "course_description": "Big Data I",
+                "course_description": "Big Data Management",
                 "credit_hours": "4",
                 "grade": "N/A"
             }
@@ -291,8 +286,8 @@
         "term_gpa": "N/A",
         "info": [
             {
-                "course_id": "MATH 311W",
-                "course_description": "Mathematical Problem Solving",
+                "course_id": "MATH 420",
+                "course_description": "Intro to Real Analysis",
                 "credit_hours": "3",
                 "grade": "N/A"
             },
@@ -303,21 +298,21 @@
                 "grade": "N/A"
             },
             {
-                "course_id": "COSC 105",
-                "course_description": "Everyday Computing & Social Responsibility",
-                "credit_hours": "3",
-                "grade": "N/A"
-            },
-            {
                 "course_id": "COSC 381",
                 "course_description": "Software Engineering Solutions",
                 "credit_hours": "4",
                 "grade": "N/A"
             },
             {
-                "course_id": "COSC 473",
-                "course_description": "Big Data II",
+                "course_id": "COSC 436",
+                "course_description": "Web Programming",
                 "credit_hours": "4",
+                "grade": "N/A"
+            },
+            {
+                "course_id": "ESLN 412",
+                "course_description": "Academic ESL Writing",
+                "credit_hours": "3",
                 "grade": "N/A"
             }
         ]
